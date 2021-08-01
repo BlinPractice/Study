@@ -1,4 +1,3 @@
 # Study
-Study record
 
-This is study NumPy with Google Colab.
+Study NumPy with Google Colab.
