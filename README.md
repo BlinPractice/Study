@@ -1,3 +1,3 @@
 # Study
 
-Study NumPy with Google Colab.
+Study Python with Google Colab.
