@@ -4,4 +4,4 @@
 
 ICT Inovation Square Projects
 
-Tutor : Hyemin Yoon (Scikit-Learn)
+Tutor : Hyemin Yoon (Machine Learning)
