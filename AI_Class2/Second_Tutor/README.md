@@ -4,4 +4,4 @@
 
 ICT Inovation Square Projects
 
-Tutor : Jihoon Seong
+Tutor : Jihoon Seong (Python)
