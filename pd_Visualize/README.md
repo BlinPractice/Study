@@ -1,4 +1,5 @@
-from : https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#plotting-with-missing-data
+# Pandas Visualization
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>  <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> \
+<img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white"/>
 
-판다스에서 시각화 기초를 다루어보았습니다. \
-참고로 파이썬 기초 문법(넘파이 포함)을 어느 정도 숙지하시고 보시면 더 이해하시기 쉽습니다.
+from : https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#plotting-with-missing-data
