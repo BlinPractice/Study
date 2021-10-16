@@ -3,4 +3,4 @@
 
 ICT Inovation Square Projects
 
-Tutor : anonymous tutor (Intro of Data Transformation)
+Tutor : anonymous tutor ( Understand of Data Transformation )
